@@ -1,5 +1,5 @@
 organization := "com.tzavellas"
-name := "sse-sbt-plugin"
+name := "sse-sbt-common"
 version := "0.1"
 
 description := "An sbt plugin with common settings for all sse projects"
